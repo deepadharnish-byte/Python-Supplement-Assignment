@@ -2,6 +2,7 @@
 # Find and fix the error
 
 text = "Hello World"
+
 vowels = "aeiou"
 count = 0
 for char in text:

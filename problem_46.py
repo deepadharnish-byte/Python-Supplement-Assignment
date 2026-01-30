@@ -5,4 +5,5 @@ numbers = [2, 3, 4, 5]
 product = 0
 for num in numbers:
     product *= num
+    
 print(f"Product: {product}")

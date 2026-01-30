@@ -2,6 +2,7 @@
 # Find and fix the error
 
 def merge_sorted(list1, list2):
+    
     merged = []
     i, j = 0, 0
     while i < len(list1) and j < len(list2):

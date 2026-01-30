@@ -4,6 +4,7 @@
 def starts_with(text, char):
     if text[0] == char:
         return True
+    
     return False
 
 word = "Python"

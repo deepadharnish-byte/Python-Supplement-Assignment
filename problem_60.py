@@ -3,6 +3,7 @@
 
 def is_armstrong(n):
     num_str = str(n)
+    
     num_digits = len(num_str)
     total = 0
     for digit in num_str:
